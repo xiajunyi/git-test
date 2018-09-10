@@ -1,4 +1,4 @@
-r-x1
+r-x2
 
 # git-test
 just for studing git command
