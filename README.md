@@ -1,7 +1,12 @@
+mx19
+<<<<<<< HEAD
 x19
 
 x18
 
+=======
+r-x18
+>>>>>>> branch 'master' of https://github.com/xiajunyi/git-test.git
 
 <<<<<<< HEAD
 x17
